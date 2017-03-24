@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> બાળકો-ગણિત </string>
+    <string name="action_settings">સેટિંગ્સ</string>
+
+    <string name="hello_blank_fragment">હેલો ખાલી ટુકડો</string>
+
+    <string name="select_language">ભાષા પસંદ કરો</string>
+    <string name="select_okay">બરાબર</string>
+    <string name="zero_name">૦</string>
+    <string name="one_name">૧</string>
+    <string name="two_name">૨</string>
+    <string name="three_name">૩</string>
+    <string name="four_name">૪</string>
+    <string name="five_name">૫</string>
+    <string name="six_name">૬</string>
+    <string name="seven_name">૭</string>
+    <string name="eight_name">૮</string>
+    <string name="nine_name">૯</string>
+
+</resources>

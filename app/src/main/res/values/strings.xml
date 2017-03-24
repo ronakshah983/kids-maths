@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KidsMath</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_work">Work</string>
+    <string name="select_language"> Select Language </string>
+    <string name="select_okay"> Okay </string>
+    <string name="zero_name">0</string>
+    <string name="one_name">1</string>
+    <string name="two_name">2</string>
+    <string name="three_name">3</string>
+    <string name="four_name">4</string>
+    <string name="five_name">5</string>
+    <string name="six_name">6</string>
+    <string name="seven_name">7</string>
+    <string name="eight_name">8</string>
+    <string name="nine_name">9</string>
+    <string name="settings"> Settings </string>
+</resources>

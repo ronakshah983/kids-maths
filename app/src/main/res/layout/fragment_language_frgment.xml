@@ -1,0 +1,39 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ronakshah.medicare.languageFragment">
+
+    <TextView
+        android:id="@+id/select_lang_textview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:gravity="center_horizontal"
+        android:text="@string/select_language"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@+id/select_lang_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:divider="@android:color/darker_gray"
+        android:choiceMode="singleChoice"
+        android:dividerHeight="1dp"
+        android:layout_weight="80" />
+
+    <Button
+        android:id="@+id/select_lang_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="@color/colorBack"
+        android:text="@string/select_okay"
+        android:textColor="@android:color/white"
+        android:textSize="15sp" />
+
+</LinearLayout>

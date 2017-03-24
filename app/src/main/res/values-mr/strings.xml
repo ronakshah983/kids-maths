@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">लहान मुले-गणित</string>
+    <string name="action_settings">सेटिंग्ज</string>
+
+    <string name="hello_blank_fragment">हॅलो रिक्त तुकडा</string>
+
+    <string name="select_language">भाषा निवडा</string>
+    <string name="select_okay">ठीक आहे</string>
+    <string name="zero_name">०</string>
+    <string name="one_name">१</string>
+    <string name="two_name">२</string>
+    <string name="three_name">३</string>
+    <string name="four_name">४</string>
+    <string name="five_name">५</string>
+    <string name="six_name">६</string>
+    <string name="seven_name">७</string>
+    <string name="eight_name">८</string>
+    <string name="nine_name">९</string>
+
+
+</resources>
